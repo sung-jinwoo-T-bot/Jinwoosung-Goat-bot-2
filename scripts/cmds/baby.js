@@ -158,11 +158,11 @@ module.exports.onChat = async ({ api, event }) => {
 
        const randomMessage = [
           "babu khuda lagse🥺",
-          "Hop beda😾,Boss বল boss😼",  
+          "Hop beda😾,ammu বল ammu😼",  
           "আমাকে ডাকলে ,আমি কিন্তূ কিস করে দেবো😘 ",  
           "🐒🐒🐒",
           "bye",
-          "naw amr boss k message daw https://m.me/zefoxxit",
+          "naw amr boss k message daw https://www.facebook.com/profile.php?id=61587484619847",
           "mb ney bye",
           "meww",
           "গোলাপ ফুল এর জায়গায় আমি দিলাম তোমায় মেসেজ",
